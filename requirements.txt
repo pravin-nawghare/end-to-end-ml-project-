@@ -1,6 +1,10 @@
 pandas
 numpy
 seaborn
+matplotlib
+ipykernel
+scikit-learn
+catboost
+xgboost
 
-
--e .
+#-e . #use single time only may be add last. Otherwise it will create package every time it is installed

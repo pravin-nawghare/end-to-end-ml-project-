@@ -172,4 +172,4 @@ cython_debug/
 
 virtual
 logs
-.artifacts
+artifacts/

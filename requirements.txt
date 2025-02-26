@@ -6,5 +6,6 @@ ipykernel
 scikit-learn
 catboost
 xgboost
+dataclasses
 
 #-e . #use single time only may be add last. Otherwise it will create package every time it is installed

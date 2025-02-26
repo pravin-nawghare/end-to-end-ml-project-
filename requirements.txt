@@ -7,5 +7,6 @@ scikit-learn
 catboost
 xgboost
 dataclasses
+dill
 
 #-e . #use single time only may be add last. Otherwise it will create package every time it is installed
